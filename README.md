@@ -1,8 +1,13 @@
-# Mentor Request for Slack
+![MangoHacks Logo](http://mangohacks.com/apple-icon-180x180.png)
+# mangobot - Mentor Request for Slack
 
-![swamphacks_logo](https://i.imgur.com/ERqvgGI.png)
+[![forthebadge](http://forthebadge.com/images/badges/fuck-it-ship-it.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/oooo-kill-em.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](http://forthebadge.com/images/badges/powered-by-water.svg)](http://forthebadge.com)
 
 A slackbot to help hackathons manage mentorship requests during their hackathon. Written during KnightHacks from Jan 15, 2016 - Jan 16, 2016.
+
 
 ## Usage
 
@@ -86,3 +91,13 @@ You can also use this with Docker! Update the `Dockerfile` with your email addre
     docker run -d your-name/mentor-request-bot
 
 Nice.
+
+---
+
+##Contributing
+S/O to @andrewjkerr  ![swamphacks_logo](https://i.imgur.com/ERqvgGI.png)
+
+##Contributors
+
+Ashley Narcissse <darkfadr> @_darkfader
+
