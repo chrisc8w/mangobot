@@ -6,7 +6,7 @@
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
 [![forthebadge](http://forthebadge.com/images/badges/powered-by-water.svg)](http://forthebadge.com)
 
-A slackbot to help hackathons manage mentorship requests during their hackathon. Written during KnightHacks from Jan 15, 2016 - Jan 16, 2016.
+A slackbot to help hackathons manage mentorship requests during their hackathon. Derived from hackathon-mentor-request-slackbot
 
 
 ## Usage
