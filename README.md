@@ -95,7 +95,7 @@ Nice.
 ---
 
 ##Contributing
-S/O to @andrewjkerr  ![swamphacks_logo](https://i.imgur.com/ERqvgGI.png)
+S/O to @andrewjkerr
 
 ##Contributors
 
